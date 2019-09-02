@@ -1,0 +1,7 @@
+# Playrkp
+Login With Me 
+
+# Need Install
+pkg install python2 -y
+pkg install nano -y
+pkg install ruby -y
